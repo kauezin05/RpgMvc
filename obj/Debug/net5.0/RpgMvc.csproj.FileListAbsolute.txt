@@ -85,3 +85,9 @@ D:\etec\M2\DS\RpgMvc\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\etec\M2\DS\RpgMvc\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\etec\M2\DS\RpgMvc\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\etec\M2\DS\RpgMvc\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Create.cshtml.g.cs
+D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Details.cshtml.g.cs
+D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Index.cshtml.g.cs
+D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartialRpg.cshtml.g.cs
+D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Usuarios\AutenticarUsuario.cshtml.g.cs
+D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs

@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\RpgMvc.csproj",
+  "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\RpgMvc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,52 +15619,82 @@
   "RootNamespace": "RpgMvc",
   "Documents": [
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Personagens\\Index.cshtml",
+      "TargetPath": "Views\\Personagens\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Usuarios\\CadastrarUsuario.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Usuarios\\CadastrarUsuario.cshtml",
       "TargetPath": "Views\\Usuarios\\CadastrarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Personagens\\Edit.cshtml",
+      "TargetPath": "Views\\Personagens\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Usuarios\\AutenticarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\AutenticarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Personagens\\Create.cshtml",
+      "TargetPath": "Views\\Personagens\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_LoginPartialRpg.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartialRpg.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\etec\\M2\\DS\\RpgMvc\\Views\\Shared\\Error.cshtml",
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Personagens\\Details.cshtml",
+      "TargetPath": "Views\\Personagens\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
