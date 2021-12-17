@@ -2,6 +2,19 @@
 @{
     ViewBag.Title = "Novo Personagem";
 }
+
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]</div>
+}
+<!--Configuração para exibir mensagem de erro -->
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]</div>
+}
+
 <!-- Insira aqui os TempData de Sucesso e Erro para evitar tela da morte-->
 <h2>Criar um Novo Personagem</h2>
 

@@ -15649,6 +15649,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Armas\\Edit.cshtml",
+      "TargetPath": "Views\\Armas\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15661,11 @@
     {
       "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Personagens\\Edit.cshtml",
       "TargetPath": "Views\\Personagens\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Armas\\Index.cshtml",
+      "TargetPath": "Views\\Armas\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15674,6 +15684,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Armas\\Create.cshtml",
+      "TargetPath": "Views\\Armas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15684,8 +15699,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Armas\\Details.cshtml",
+      "TargetPath": "Views\\Armas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Disputas\\Index.cshtml",
+      "TargetPath": "Views\\Disputas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Etec\\M2\\DS\\RpgMvc\\Views\\Disputas\\IndexHabilidades.cshtml",
+      "TargetPath": "Views\\Disputas\\IndexHabilidades.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -91,3 +91,14 @@ D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Index.cshtml.g.cs
 D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartialRpg.cshtml.g.cs
 D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Usuarios\AutenticarUsuario.cshtml.g.cs
 D:\etec\m2\ds\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
+D:\Etec\M2\DS\RpgMvc\bin\Debug\net5.0\Publish\web.config
+D:\Etec\M2\DS\RpgMvc\bin\Debug\net5.0\Publish\appsettings.Development.json
+D:\Etec\M2\DS\RpgMvc\bin\Debug\net5.0\Publish\appsettings.json
+D:\Etec\M2\DS\RpgMvc\bin\Debug\net5.0\Publish\RpgMvc.deps.json
+D:\Etec\M2\DS\RpgMvc\bin\Debug\net5.0\Publish\RpgMvc.runtimeconfig.json
+D:\Etec\M2\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\Index.cshtml.g.cs
+D:\Etec\M2\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\IndexHabilidades.cshtml.g.cs
+D:\Etec\M2\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Armas\Create.cshtml.g.cs
+D:\Etec\M2\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Armas\Details.cshtml.g.cs
+D:\Etec\M2\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Armas\Edit.cshtml.g.cs
+D:\Etec\M2\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Armas\Index.cshtml.g.cs

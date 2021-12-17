@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\etec\\m2\\ds\\RpgMvc\\RpgMvc.csproj": {}
+    "D:\\Etec\\M2\\DS\\RpgMvc\\RpgMvc.csproj": {}
   },
   "projects": {
-    "D:\\etec\\m2\\ds\\RpgMvc\\RpgMvc.csproj": {
+    "D:\\Etec\\M2\\DS\\RpgMvc\\RpgMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\etec\\m2\\ds\\RpgMvc\\RpgMvc.csproj",
+        "projectUniqueName": "D:\\Etec\\M2\\DS\\RpgMvc\\RpgMvc.csproj",
         "projectName": "RpgMvc",
-        "projectPath": "D:\\etec\\m2\\ds\\RpgMvc\\RpgMvc.csproj",
+        "projectPath": "D:\\Etec\\M2\\DS\\RpgMvc\\RpgMvc.csproj",
         "packagesPath": "C:\\Users\\kauez\\.nuget\\packages\\",
-        "outputPath": "D:\\etec\\m2\\ds\\RpgMvc\\obj\\",
+        "outputPath": "D:\\Etec\\M2\\DS\\RpgMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauez\\AppData\\Roaming\\NuGet\\NuGet.Config"
